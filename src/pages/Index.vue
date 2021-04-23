@@ -43,7 +43,7 @@
     </div>
 
     <div class="col text-center">
-      <img :src="`http://openweathermap.org/img/wn/${ weatherData.weather[0].icon }.png`" alt="Bill">
+      <img :src="`https://openweathermap.org/img/wn/${ weatherData.weather[0].icon }.png`" alt="Bill">
     </div>
   </template>
  
